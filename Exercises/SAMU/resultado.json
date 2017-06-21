@@ -1,0 +1,49 @@
+{
+    "uf": {
+        "id": 24,
+        "nome": "Rio Grande do Norte"
+    },
+    "fontes": [
+        "http://api.pgi.gov.br/api/1/serie/27.json",
+        "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm"
+    ],
+    "valores": [
+        {
+            "ano": 2006,
+            "municipios_atendidos": 10
+        },
+        {
+            "ano": 2007,
+            "municipios_atendidos": 10
+        },
+        {
+            "ano": 2008,
+            "municipios_atendidos": 10
+        },
+        {
+            "ano": 2009,
+            "municipios_atendidos": 10
+        },
+        {
+            "ano": 2011,
+            "municipios_atendidos": 17
+        },
+        {
+            "ano": 2010,
+            "municipios_atendidos": 17
+        },
+        {
+            "ano": 2012,
+            "municipios_atendidos": 17
+        },
+        {
+            "ano": 2013,
+            "municipios_atendidos": 22
+        },
+        {
+            "ano": 2014,
+            "municipios_atendidos": 25
+        }
+    ],
+    "media": 15
+}
